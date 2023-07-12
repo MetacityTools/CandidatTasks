@@ -1,14 +1,14 @@
-## Úkol
+## Task
 
-Zobrazte všechna data z portálu GoOut na mapě Prahy. Data jsou uložená jako GeoJSON (`out.json`), další informace jsou v CSV souboru (`venues.csv`).
+Render and present all data from the GoOut portal on the map of Prague. The data is saved as GeoJSON (`out.json`), other information is in the CSV file (`venues.csv`).
 
-Úkol: Uživatel chce vědět, jaká data daný soubor obsahuje, jak jsou prostorově rozmístěná, jejich zasazení do kontextu, zda jsou v nich nějaké vzájemné vztahy, odkazy jinam...
+Task: The user wants to know what data the given file contains, how it is spatially distributed, its placement in the context, whether there are any mutual relationships, links...
 
-1. Analyzujte data. Obsahují spoustu redundací, vyčištěte je (stačí jednorázově).
-2. **Povinně použijte pro zobrazení [three.js](https://threejs.org/)**
-3. Po dokončení 2., volitelně použijte [banana.gl](https://github.com/vojtatom/banana.gl), můžete přeskočit
-4. Přidejte další datové sady, mapový podklad, interaktivitu, atp.
+1. Analyze the data. They contain a lot of redundancies, clean them (cleaning localy once is enough).
+2. **Mandatory - Use [three.js](https://threejs.org/) for rendering**
+3. After completing 2nd task, optionally use [banana.gl](https://github.com/vojtatom/banana.gl), you can skip this
+4. Add additional datasets, map background, interactivity, etc.
 
-## Výstup
+## Output
 
-Interaktivní webová aplikace.
+Interactive web application.
