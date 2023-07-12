@@ -4,15 +4,16 @@ Render and present all data from the GoOut portal on the map of Prague. The data
 
 Task: The user wants to know what data the given file contains, how it is spatially distributed, its placement in the context, whether there are any mutual relationships, links...
 
-1. Analyze the data. They contain a lot of redundancies, clean them (cleaning localy once is enough).
-2. **Mandatory - Create a simple visualization web app, use [three.js](https://threejs.org/) for rendering.** After completing the mandatory task, optionally:
-   - **Optional** - use [banana.gl](https://github.com/vojtatom/banana.gl)
-   - **Optional** - use [deck.gl](https://deck.gl/#/) for rendering
-   - **Optional** - use [mapbox-gl](https://docs.mapbox.com/mapbox-gl-js/api/) for rendering
-   - **Optional** - use [leaflet](https://leafletjs.com/) for rendering
-   - **Optional** - use [openlayers](https://openlayers.org/) for rendering
-   - **Optional** - use anything else for rendering
-3. Add additional datasets, map background, interactivity, etc.
+- Analyze the data. They contain a lot of redundancies, clean them (cleaning localy once is enough).
+- **Create the UI in React**
+- **Mandatory - Create a simple visualization web app, use [three.js](https://threejs.org/) for rendering.** After completing the mandatory task, optionally:
+  - use [banana.gl](https://github.com/vojtatom/banana.gl)
+  - use [deck.gl](https://deck.gl/#/) for rendering
+  - use [mapbox-gl](https://docs.mapbox.com/mapbox-gl-js/api/) for rendering
+  - use [leaflet](https://leafletjs.com/) for rendering
+  - use [openlayers](https://openlayers.org/) for rendering
+  - use anything else for rendering
+- Add additional datasets, map background, interactivity, etc.
 
 ## Output
 
