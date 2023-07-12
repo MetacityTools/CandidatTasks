@@ -5,8 +5,7 @@ Render and present all data from the GoOut portal on the map of Prague. The data
 Task: The user wants to know what data the given file contains, how it is spatially distributed, its placement in the context, whether there are any mutual relationships, links...
 
 - Analyze the data. They contain a lot of redundancies, clean them (cleaning localy once is enough).
-- **Create the UI in React**
-- **Mandatory - Create a simple visualization web app, use [three.js](https://threejs.org/) for rendering.** After completing the mandatory task, optionally:
+- **Mandatory - Create a simple visualization web app, use [three.js](https://threejs.org/) for rendering and React for the UI.** After completing the mandatory task, optionally:
   - use [banana.gl](https://github.com/vojtatom/banana.gl)
   - use [deck.gl](https://deck.gl/#/) for rendering
   - use [mapbox-gl](https://docs.mapbox.com/mapbox-gl-js/api/) for rendering
