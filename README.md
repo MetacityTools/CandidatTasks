@@ -4,7 +4,7 @@ This repo contains data scraped from GoOut.cz, the data is saved as GeoJSON (`ou
 
 Show what data the given files contain, how it is spatially distributed, spatial context (locations around, public transport, etc.), relationships and links...
 
-- Analyze the data. It contains a lot of redundancies, clean it (cleaning localy once is enough).
+- Analyze the data.
 - **Mandatory - Create a simple visualization web app, use React for the UI and either:**
   - **[three.js](https://threejs.org/) for rendering,**
   - **or [WebGL](https://registry.khronos.org/webgl/specs/latest/2.0/) for rendering.**
