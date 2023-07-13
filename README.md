@@ -15,7 +15,7 @@ Show what data the given files contain, how it is spatially distributed, spatial
   - use [leaflet](https://leafletjs.com/) for rendering,
   - use [openlayers](https://openlayers.org/) for rendering,
   - use anything else for rendering.
-- Add additional datasets, map background, interactivity, etc.
+- use the available GeoJSON of [road network](https://opendata.iprpraha.cz/CUR/DOP/DOP_TSK_UlicUsPAKOM_l/S_JTSK/DOP_TSK_UlicUsPAKOM_l.json) to show the spatial context (download from opendata.iprpraha.cz)
 
 ## Output
 
