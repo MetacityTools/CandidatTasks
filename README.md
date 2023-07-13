@@ -1,6 +1,6 @@
 ## Task
 
-Render data GoOut.cz portal. The data is saved as GeoJSON (`out.json`), other information is in the CSV file (`venues.csv`).
+This repo contains data scraped from GoOut.cz, the data is saved as GeoJSON (`out.json`), other information is in the CSV file (`venues.csv`).
 
 Show what data the given file contains, how it is spatially distributed, spatial context (locations around, public transport, etc.), relationships and links...
 
