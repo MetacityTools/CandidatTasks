@@ -2,7 +2,7 @@
 
 This repo contains data scraped from GoOut.cz, the data is saved as GeoJSON (`out.json`), other information is in the CSV file (`venues.csv`).
 
-Show what data the given file contains, how it is spatially distributed, spatial context (locations around, public transport, etc.), relationships and links...
+Show what data the given files contain, how it is spatially distributed, spatial context (locations around, public transport, etc.), relationships and links...
 
 - Analyze the data. It contains a lot of redundancies, clean it (cleaning localy once is enough).
 - **Mandatory - Create a simple visualization web app, use React for the UI and either:**
