@@ -19,4 +19,4 @@ Show what data the given files contain, how it is spatially distributed, spatial
 
 ## Output
 
-Interactive web application.
+Interactive web application. Please submit as link to your own github repo with instructions on how to run the app. Keep it simple.
